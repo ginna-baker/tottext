@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'SKetchSerif';
+	src: url('sketch_serif-webfont.eot');
+	src: url('sketch_serif-webfont.eot?#iefix') format('embedded-opentype'),
+		url('sketch_serif-webfont.woff') format('woff'),
+		url('sketch_serif-webfont.ttf') format('truetype'),
+		url('sketch_serif-webfont.svg') format('svg');
+}

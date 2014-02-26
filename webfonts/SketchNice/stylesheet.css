@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'SketchNice';
+	src: url('sketch_nice-webfont.eot');
+	src: url('sketch_nice-webfont.eot?#iefix') format('embedded-opentype'),
+		url('sketch_nice-webfont.woff') format('woff'),
+		url('sketch_nice-webfont.ttf') format('truetype'),
+		url('sketch_nice-webfont.svg') format('svg');
+}
